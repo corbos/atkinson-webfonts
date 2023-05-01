@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Atkinson-Hyperlegible-Regular";
+    src: local("Atkinson-Hyperlegible-Regular"),
+        url("../webfonts/eot/Atkinson-Hyperlegible-Regular-102.eot") format("embedded-opentype"),
+        url("../webfonts/eot/Atkinson-Hyperlegible-Regular-102.eot"),
+        url("../webfonts/woff2/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2"),
+        url("../webfonts/woff/Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
+        url("../webfonts/ttf/Atkinson-Hyperlegible-Regular-102.ttf") format("truetype"),
+        url("../webfonts/svg/Atkinson-Hyperlegible-Regular-102.svg") format("svg");
+    font-weight: normal;
+    font-size: normal;
+}
+
+
+html {
+    font-family: "Atkinson-Hyperlegible-Regular", serif;
+}
